@@ -28,6 +28,6 @@ Requirements
 - Jython (2.7.x)
 
 
- Demo
+Demo
+![Demo](https://github.com/user-attachments/assets/8ccb9eca-ae4e-40f5-9546-cac39e9ce532)
 
-![demo](demo.gif)
